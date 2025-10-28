@@ -1,0 +1,75 @@
+{
+    "Index": {
+      "title": "НАЙДИ ПРЕДАТЕЛЯ",
+      "slogan": "Слова дешевы, ложь бесценна",
+      "startGame": "Начать игру"
+    },
+    "SetupPhase": {
+      "gameSetup": "Настройки игры",
+      "configureSettings": "Настройте параметры игры перед началом матча.",
+      "players": "Игроки",
+      "ready": "готовы",
+      "numberOfPlayers": "Количество игроков:",
+      "playerNames": "Имена игроков",
+      "player": "Игрок",
+      "addPlayer": "Добавить игрока",
+      "of": "из",
+      "gameSettings": "Параметры игры",
+      "language": "Язык",
+      "hints": "Подсказки",
+      "showHints": "Показывать подсказки предателям",
+      "enabled": "Включено",
+      "disabled": "Выключено",
+      "categories": "Категории",
+      "selected": "выбрано",
+      "addCustomCategory": "Добавить категорию",
+      "done": "Готово",
+      "customCategoryPlaceholder": "Название категории",
+      "selectCategory": "Пожалуйста, выберите хотя бы одну категорию",
+      "startGame": "Начать игру",
+      "generateWords": "Сгенерировать слова ✨",
+      "animals": "Животные",
+      "food": "Еда",
+      "objects": "Предметы",
+      "movies": "Фильмы",
+      "places": "Места",
+      "professions": "Профессии",
+      "settings": "Настройки",
+      "difficulty": "Сложность",
+      "easy": "Легко",
+      "medium": "Средне",
+      "hard": "Сложно"
+    },
+    "WordRevealPhase": {
+      "chooseYourCard": "Выбери свою карту",
+      "selectAnyCard": "Выберите любую карту, чтобы узнать свою роль",
+      "playersRevealed": "игроков посмотрели",
+      "of": "из",
+      "tapToReveal": "Нажмите, чтобы открыть",
+      "allCardsRevealed": "Все карты открыты",
+      "everyPlayerSeen": "Каждый игрок увидел свою роль",
+      "startDiscussion": "Начать обсуждение",
+      "player": "Игрок",
+      "readyToReveal": "Готов узнать свою роль?",
+      "impostor": "ПРЕДАТЕЛЬ",
+      "yourHint": "Твоя подсказка:",
+      "yourWordIs": "Твое слово:",
+      "flipCard": "Перевернуть карту",
+      "nextPlayer": "Следующий игрок"
+    },
+    "DiscussionPhase": {
+      "sayYourWords": "Говорите свои слова",
+      "starts": "начинает",
+      "revealImpostor": "Выявить предателя"
+    },
+    "ResultsPhase": {
+      "results": "Результаты",
+      "theWordWas": "Слово было",
+      "newGame": "Новая игра",
+      "category": "Категория"
+    },
+    "Error": {
+      "somethingWentWrong": "Что-то пошло не так, попробуйте снова."
+    }
+  }
+  
